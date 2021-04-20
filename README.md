@@ -1,3 +1,7 @@
-# Coursera_Capstone
+# IBM Data Science Professional Capstone Project
 
-Jupyter notebook containing my submission for the IBM Data Science Professional Certificate capstone project. 
+Exploring the relationship between venue types & COVID-19 rates in Toronto neighbourhoods
+
+— Utilized FourSquare API, neighbourhood data scraped from Wikipedia, and COVID-19 data sourced from ICES.
+
+
